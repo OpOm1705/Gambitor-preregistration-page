@@ -1,0 +1,156 @@
+
+
+
+*{
+    
+    margin: 0px;
+    padding: 0px;
+    font-family: Jost;
+}
+
+.upper_box{
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.main_box{
+    width: 100vw;
+    height: 100vh;
+    background-color: #FFFFFF;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo{
+    width: 224.47px;
+    height: 80px;
+   
+}
+
+.top_box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    padding-left: 90px;
+    padding-right: 90px;
+    margin-top: 40px;
+    height: 15%;
+}
+
+.download_Btn{
+    width: 305px;
+    height: 56px;
+    border: 3px solid black;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    /* font-family: Jost; */
+    font-size: 25.47px;
+    font-weight: 600;
+    line-height: 36.8px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #3664AF;   
+}
+
+.download_Btn img{
+    padding-left: 5px;
+    height: 25px;
+}
+
+.main_heading{
+    text-align: center;
+    /* font-family: Jost; */
+    font-size: 95px;
+    font-weight: 700;
+    /* line-height: 138.72px; */
+    letter-spacing: -0.05em;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    height: 29%;
+}
+
+.discription{
+    width: 58%;
+    text-align: center;
+    /* font-family: Jost; */
+    font-size: 35px;
+    font-weight: 545;
+    /* line-height: 55px; */
+    letter-spacing: -0.04em;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    height: 29%;
+
+}
+
+
+.register_btn{
+
+    /* height: 45px; */
+    /* font-family: Jost; */
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    /* line-height: 46.24px; */
+    letter-spacing: 0.03em;
+
+    border: solid 4px #3664AF;
+    border-radius: 7px;
+    padding: 0px 35px ;
+
+}
+
+
+
+.lower_box{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    width: 100vw;
+    height: 40vh;
+    font-family: Jost;
+    margin-bottom: 2px;
+
+}
+
+
+.contact_us{
+    /* font-family: Jost; */
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 45px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #3664AF;
+    width: 200px;
+
+}
+
+.contact_logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 200px;
+}
+
+
+.constraction{
+    color: #3664AF;
+}
